@@ -5,7 +5,7 @@ With NFTs bringing blockchain into the public eye, now is an excellent opportuni
 # Project steps
 
 # Part 1
-Step 1: Connect to the Ethereum network
+### Step 1: Connect to the Ethereum network
 Step 2: Create the app (and API key)
 Step 3: Create an Ethereum account (address)
 Step 4: Add ether from a Faucet
