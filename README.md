@@ -32,3 +32,13 @@ With NFTs bringing blockchain into the public eye, now is an excellent opportuni
 ### Step 7: Create the transaction
 ### Step 8: Sign the transaction
 ### Step 9: Call mintNFT and run node contract-interact.js
+
+
+# Steps to run the projects 
+
+### Step 1: Download zip file and extract it into your local machine
+### Step 2: Open the project folder in your favorite IDE 
+### Step 3: Open a terminal and run : npm install , or npm i to install dependencies, It will install all the dependencies
+### Step 4: Edit .env file with your own data (API_URL, PRIVATE_KEY, PUBLIC_KEY)
+### Step 5: upload an image to Panta cloud and replace the URL in mint-nft.js file
+
